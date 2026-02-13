@@ -1,0 +1,10 @@
+# Nmap 7.98 scan initiated Fri Feb 13 01:47:02 2026 as: /usr/lib/nmap/nmap -sn -oN host_discovery.txt 10.0.2.15/24
+Nmap scan report for 10.0.2.2
+Host is up (0.00072s latency).
+MAC Address: 52:55:0A:00:02:02 (Unknown)
+Nmap scan report for 10.0.2.3
+Host is up (0.0011s latency).
+MAC Address: 52:55:0A:00:02:03 (Unknown)
+Nmap scan report for 10.0.2.15
+Host is up.
+# Nmap done at Fri Feb 13 01:47:06 2026 -- 256 IP addresses (3 hosts up) scanned in 3.08 seconds
